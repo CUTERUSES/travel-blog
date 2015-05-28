@@ -35,7 +35,7 @@ function theme_setup() {
 
 }
 endif;
-
+add_action( 'wp_trash_post', '_wp_delete_post_menu_item' );
 add_action( 'after_setup_theme', 'theme_setup' );
 
 function custom_theme_setup() {
