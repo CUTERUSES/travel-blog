@@ -12,6 +12,8 @@
  s.parentNode.insertBefore(g,s)}(document,"script"));
 </script>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.js"></script>
+
 <?php wp_footer(); ?>
 </body>
 </html>
