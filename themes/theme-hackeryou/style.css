@@ -9,166 +9,166 @@ Author URI: https://github.com/CUTERUSES
 /* =============================================================================
                    Normalize, border box and clearfix
    ========================================================================== */
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {
   display: block; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 audio, canvas, video {
   display: inline-block; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 audio:not([controls]) {
   display: none;
   height: 0; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 [hidden] {
   display: none; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 a:focus {
   outline: thin dotted; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 a:active, a:hover {
   outline: 0; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 h1 {
   font-size: 2em; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 abbr[title] {
   border-bottom: 1px dotted; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 b, strong {
   font-weight: 700; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 dfn {
   font-style: italic; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 mark {
   background: #ff0;
   color: #000; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 code, kbd, pre, samp {
   font-family: monospace, serif;
   font-size: 1em; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 pre {
   white-space: pre-wrap;
   word-wrap: break-word; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 q {
   quotes: \201C \201D \2018 \2019; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 small {
   font-size: 80%; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 sub, sup {
   font-size: 75%;
   line-height: 0;
   position: relative;
   vertical-align: baseline; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 sup {
   top: -0.5em; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 sub {
   bottom: -0.25em; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 img {
   border: 0; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 svg:not(:root) {
   overflow: hidden; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 fieldset {
   border: 1px solid silver;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 button, input, select, textarea {
   font-family: inherit;
   font-size: 100%;
   margin: 0; }
 
-/* line 24, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 24, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 button, input {
   line-height: normal; }
 
-/* line 25, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 25, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 button, html input[type=button], input[type=reset], input[type=submit] {
   -webkit-appearance: button;
   cursor: pointer; }
 
-/* line 25, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 25, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 button[disabled], input[disabled] {
   cursor: default; }
 
-/* line 25, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 25, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 input[type=checkbox], input[type=radio] {
   box-sizing: border-box;
   padding: 0; }
 
-/* line 25, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 25, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 input[type=search] {
   -webkit-appearance: textfield;
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
   box-sizing: content-box; }
 
-/* line 25, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 25, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 input[type=search]::-webkit-search-cancel-button, input[type=search]::-webkit-search-decoration {
   -webkit-appearance: none; }
 
-/* line 25, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 25, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 textarea {
   overflow: auto;
   vertical-align: top; }
 
-/* line 25, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 25, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-/* line 25, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 25, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 body, figure {
   margin: 0; }
 
-/* line 25, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 25, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 legend, button::-moz-focus-inner, input::-moz-focus-inner {
   border: 0;
   padding: 0; }
 
-/* line 27, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 27, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 * {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
-/* line 29, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 29, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .clearfix:after {
   content: " ";
   visibility: hidden;
@@ -176,33 +176,33 @@ legend, button::-moz-focus-inner, input::-moz-focus-inner {
   height: 0;
   clear: both; }
 
-/* line 37, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 37, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 img {
   max-width: 100%; }
 
 /* Global Classes / Wordpress Specific */
-/* line 42, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 42, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .aligncenter {
   text-align: center;
   margin: 0 auto; }
 
-/* line 43, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 43, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .alignleft {
   float: left; }
 
-/* line 44, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 44, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .alignright {
   float: right; }
 
-/* line 45, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 45, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 img.alignleft {
   padding-right: 5px; }
 
-/* line 46, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 46, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 img.alignright {
   padding-left: 5px; }
 
-/* line 47, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 47, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .clear {
   width: 100%;
   float: left;
@@ -211,78 +211,78 @@ img.alignright {
 /* =============================================================================
                    Default Styling
    ========================================================================== */
-/* line 55, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 55, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 body {
   color: #333; }
 
-/* line 59, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 59, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .container {
   max-width: 1200px;
   margin: 0 auto; }
 
-/* line 64, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 64, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .content {
   float: left;
   width: 65%;
   margin-right: 5%; }
 
-/* line 71, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 71, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .full {
   width: 100%; }
 
 /* links */
-/* line 76, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 76, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 a {
   color: #BA209B;
   text-decoration: none; }
 
-/* line 81, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 81, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 a:hover {
   color: #D424B1; }
 
 /* paragraphs */
-/* line 86, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 86, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 p {
   line-height: 1.5; }
 
 /*blockquotes*/
-/* line 91, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 91, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 blockquote {
   background: #F7F7F7;
   margin: 0;
   padding: 20px; }
 
-/* line 96, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 96, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 blockquote p {
   margin-top: 0; }
 
 /*tables*/
-/* line 101, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 101, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 table td {
   padding: 10px; }
 
-/* line 104, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 104, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 table tr td:first {
   padding-right: 0; }
 
 /*def lists*/
-/* line 109, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 109, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 dt {
   font-weight: 600;
   padding-bottom: 5px; }
 
-/* line 113, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 113, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 dd {
   padding: 10px;
   margin-left: 10px; }
 
 /*lists*/
-/* line 119, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 119, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 ul li, ol li {
   padding: 3px; }
 
 /*PRE*/
-/* line 125, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 125, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 pre {
   background: #F7F7F7;
   padding: 10px;
@@ -292,41 +292,41 @@ pre {
 /* =============================================================================
                    Sidebar
    ========================================================================== */
-/* line 134, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 134, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .sidebar {
   width: 30%;
   float: left; }
 
-/* line 138, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 138, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .sidebar ul {
   margin: 0;
   padding: 0; }
 
-/* line 142, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 142, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .sidebar ul li {
   list-style: none; }
 
 /* =============================================================================
                    Footer
    ========================================================================== */
-/* line 153, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 153, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 footer {
   clear: both; }
 
 /* =============================================================================
                    Navigation
    ========================================================================== */
-/* line 161, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 161, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 ul.menu {
   margin: 0;
   padding: 0; }
 
-/* line 165, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 165, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 ul.menu li {
   display: inline;
   margin-right: 10px; }
 
-/* line 170, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 170, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 ul.menu li a {
   color: #333;
   padding: 10px;
@@ -336,22 +336,22 @@ ul.menu li a {
 /* =============================================================================
                    Comment Styling
    ========================================================================== */
-/* line 182, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 182, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #comments .navigation {
   padding: 0 0 18px; }
 
-/* line 183, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 183, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 h3#comments-title, h3#reply-title {
   color: #000000;
   font-weight: 700;
   font-size: 20px;
   margin-bottom: 0; }
 
-/* line 189, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 189, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 h3#comments-title {
   padding: 24px 0; }
 
-/* line 190, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 190, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .commentlist li.comment {
   border-bottom: 1px solid #e7e7e7;
   line-height: 24px;
@@ -360,78 +360,78 @@ h3#comments-title {
   margin: 0 0 24px;
   padding: 0 0 0 56px; }
 
-/* line 198, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 198, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .commentlist li:last-child {
   border-bottom: none;
   margin-bottom: 0; }
 
-/* line 202, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 202, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #comments .comment-body ul, #comments .comment-body ol {
   margin-bottom: 18px; }
 
-/* line 203, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 203, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #comments .comment-body p:last-child {
   margin-bottom: 6px; }
 
-/* line 204, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 204, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #comments .comment-body blockquote p:last-child {
   margin-bottom: 24px; }
 
-/* line 205, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 205, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .commentlist ol {
   list-style: decimal; }
 
-/* line 206, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 206, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .commentlist .avatar {
   position: absolute;
   top: 4px;
   left: 0; }
 
-/* line 211, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 211, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .comment-author cite {
   color: #000000;
   font-style: normal;
   font-weight: 700; }
 
-/* line 216, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 216, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .comment-author .says {
   font-style: italic; }
 
-/* line 217, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 217, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .comment-meta {
   font-size: 12px;
   margin: 0 0 5px; }
 
-/* line 221, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 221, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .comment-meta a:link, .comment-meta a:visited {
   color: #888888;
   text-decoration: none; }
 
-/* line 225, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 225, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .reply {
   font-size: 12px;
   padding: 0 0 24px; }
 
-/* line 229, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 229, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .reply a, a.comment-edit-link {
   color: #888888; }
 
-/* line 230, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 230, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .commentlist .children li {
   border: none;
   margin: 0; }
 
-/* line 234, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 234, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #comments .pingback {
   margin-bottom: 18px;
   padding-bottom: 18px;
   border-bottom: 1px solid #e7e7e7; }
 
-/* line 239, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 239, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .commentlist li.comment + li.pingback {
   margin-top: -6px; }
 
-/* line 240, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 240, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #comments .pingback p {
   color: #888888;
   font-size: 12px;
@@ -439,112 +439,112 @@ h3#comments-title {
   display: block;
   margin: 0; }
 
-/* line 247, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 247, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #comments .pingback .url {
   font-style: italic;
   font-size: 13px; }
 
-/* line 251, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 251, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 input[type=submit] {
   color: #333333; }
 
-/* line 252, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 252, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond {
   margin-top: 24px;
   border-top: 1px solid #e7e7e7;
   overflow: hidden;
   position: relative; }
 
-/* line 258, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 258, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond .comment-notes {
   margin-bottom: 1em; }
 
-/* line 259, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 259, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .form-allowed-tags {
   line-height: 1em; }
 
-/* line 260, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 260, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .children #respond {
   margin: 0 48px 0 0; }
 
-/* line 261, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 261, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 h3#reply-title {
   margin: 18px 0; }
 
-/* line 262, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 262, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #comments-list #respond {
   margin: 0 0 18px; }
 
-/* line 263, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 263, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #cancel-comment-reply-link {
   font-size: 12px;
   line-height: 18px;
   font-weight: 400; }
 
-/* line 268, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 268, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond .required {
   color: #ff4b33;
   font-weight: 700; }
 
-/* line 272, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 272, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond label {
   color: #888888;
   font-size: 12px; }
 
-/* line 276, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 276, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond input {
   width: 98%;
   margin: 0 0 9px; }
 
-/* line 280, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 280, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond textarea {
   width: 98%; }
 
-/* line 281, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 281, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond dt, #respond dd {
   color: #888888;
   font-size: 12px;
   line-height: 18px; }
 
-/* line 286, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 286, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond dd code {
   font-size: 11px; }
 
-/* line 287, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 287, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond .form-submit {
   margin: 0 0 24px; }
 
-/* line 288, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 288, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond .form-submit input {
   width: auto;
   font-size: 14px; }
 
-/* line 292, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 292, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond dl {
   margin: 0 0 10px; }
 
-/* line 293, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 293, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond dt {
   display: inline;
   font-weight: 400; }
 
-/* line 297, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 297, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond dd {
   display: inline; }
 
-/* line 298, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 298, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 p.form-allowed-tags, .nocomments {
   display: none; }
 
-/* line 299, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 299, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .commentlist, .commentlist .children {
   list-style: none;
   margin: 0; }
 
-/* line 303, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 303, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 .comment-meta a:active, .comment-meta a:hover, .reply a:hover, a.comment-edit-link:hover {
   color: #ff4b33; }
 
-/* line 304, /Users/Ksenija/Desktop/Work/HackerYou/Full-Time Bootcamp/Sites/HackerYou/projects/projectSeven/wp-content/themes/theme-hackeryou/styles/style.scss */
+/* line 304, /Users/jenthorn/Sites/travel-blog/wp-content/themes/theme-hackeryou/styles/style.scss */
 #respond p, #comments-list ul #respond {
   margin: 0; }
