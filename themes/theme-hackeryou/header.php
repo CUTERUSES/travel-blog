@@ -31,7 +31,11 @@
     )); ?>
     <?php ?>
 
+<<<<<<< Updated upstream
     <?php // wp_list_categories(); ?>
+=======
+    
+>>>>>>> Stashed changes
   </div> <!-- /.container -->
 </header><!--/.header-->
 

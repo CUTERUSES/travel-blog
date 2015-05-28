@@ -24,7 +24,7 @@
       </h2>
 
 			<section class="entry-content">
-				<?php the_post_thumbnail(); ?>
+				<?php if ( function_exists('get_featured_img') ) get_featured_img(); ?>
 				<?php wp_link_pages( array(
           'before' => '<div class="page-link"> Pages:',
           'after' => '</div>'
