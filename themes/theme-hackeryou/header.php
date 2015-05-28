@@ -16,6 +16,8 @@
 
 <body <?php body_class(); ?>>
 
+  <h1>Hi Ksenija</h1>
+
 <header>
   <div class="container">
     <h1>
