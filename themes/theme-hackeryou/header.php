@@ -33,3 +33,12 @@
   </div> <!-- /.container -->
 </header><!--/.header-->
 
+<div class="container">
+  <div class="party">
+    <ul>
+    <?php get_template_part( 'loop', 'top' ); ?>
+    </ul>
+  
+  </div>
+</div>
+
