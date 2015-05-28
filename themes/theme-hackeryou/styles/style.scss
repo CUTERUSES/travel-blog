@@ -1,11 +1,21 @@
 /*
-Theme Name: Poop Fart
-Theme URI: http://hackeryou.com;
-Description: Starter theme for building any website. Created by HackerYou. Rename this to your own theme page.
+Theme Name: Travel Blog!
+Theme URI: https://github.com/CUTERUSES
+Description: Two chill ladies made a travel blog for you.
 Version: 1.0
-Author: HackerYou
-Author URI: http://hackeryou.com
+Author: Jen & Ksen
+Author URI: https://github.com/CUTERUSES
 */
+
+@import 'colours';
+@import 'typography';
+
+@import 'header';
+@import 'main-gallery';
+@import 'single';
+@import 'page';
+@import 'about';
+@import 'footer';
 
 
 /* =============================================================================
