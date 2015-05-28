@@ -30,7 +30,6 @@
       // 'link_before' => '<span>fart</span>'
     )); ?>
     <?php ?>
-
   </div> <!-- /.container -->
 </header><!--/.header-->
 
