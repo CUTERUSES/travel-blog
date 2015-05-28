@@ -16,8 +16,6 @@
 
 <body <?php body_class(); ?>>
 
-  <h1>Jsut kidding Jen, you're great.</h1>
-
 <header>
   <div class="container">
     <h1>
@@ -29,10 +27,11 @@
     <?php wp_nav_menu( array(
       'container' => false,
       'theme_locations' => 'primary'
+      // 'link_before' => '<span>fart</span>'
     )); ?>
     <?php ?>
 
-    <?php wp_list_categories(); ?>
+    <?php // wp_list_categories(); ?>
   </div> <!-- /.container -->
 </header><!--/.header-->
 
