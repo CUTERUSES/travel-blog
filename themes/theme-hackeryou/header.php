@@ -16,7 +16,7 @@
 
 <body <?php body_class(); ?>>
 
-  <h1>Hi Ksenija</h1>
+  <h1>Jsut kidding Jen, you're great.</h1>
 
 <header>
   <div class="container">
