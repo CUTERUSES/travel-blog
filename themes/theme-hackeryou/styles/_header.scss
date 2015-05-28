@@ -1,5 +1,9 @@
 // This is the header.scss file
 ul.menu {
+	
+}
+
+ul.posts {
 	position: relative;
 	width: 100%;
    	margin:0;
@@ -14,14 +18,14 @@ ul.menu {
 			position: relative;
        		color:#333;
        		color: black;
-       		padding: 10px 50px;
+       		padding: 20px 50px;
        		margin-top: 20px;
      	
      	}
    	}
 }
 
-ul.menu::before {
+ul.posts::before {
   /* this is the vertical line */
   content: '';
   position: absolute;
@@ -34,7 +38,7 @@ ul.menu::before {
   margin-bottom: 20px;
 }
 
-ul.menu a::before {
+ul.posts a::before {
 	content: '';
 	position: absolute;
 	width: 20px;

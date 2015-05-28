@@ -35,7 +35,7 @@
 
 <div class="container">
   <div class="party">
-    <ul>
+    <ul class="posts">
     <?php get_template_part( 'loop', 'top' ); ?>
     </ul>
   
