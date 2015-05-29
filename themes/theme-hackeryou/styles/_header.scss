@@ -1,6 +1,26 @@
 // This is the header.scss file
+header {
+	height: 200px;
+	background: #F3F3F3;
+	.container {
+		display: flex;
+		padding: 50px 0;
+		justify-content: space-between;
+		h1 {
+			line-height: 0;
+			// margin: 0;
+		}
+	}
+}
+
+
+
 ul.menu {
-	
+	// background: black;
+	li {
+		display: inline;
+		text-transform: uppercase;
+	}
 }
 
 ul.posts {
@@ -9,10 +29,13 @@ ul.posts {
    	margin:0;
    	padding:0;
    	display: flex;
+   	// flex-wrap: wrap;
+   	// flex: 1 0 auto;
    	justify-content: space-between;
     li {
+    	text-align: center;
     	display:inline;
-    	margin-right: 10px;
+    	margin-right: 0px;
     	a {
     		// margin-top: 20px;
 			position: relative;
@@ -48,4 +71,5 @@ ul.posts a::before {
 	background: white;
 	border-radius: 50%;
 	margin: 0 auto;
+	// margin: 100px;
 }
