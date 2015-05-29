@@ -24,6 +24,7 @@
       </a>
     </h1>
 
+    <?php if ( function_exists('cn_social_icon') ) echo cn_social_icon(); ?>
     <?php wp_nav_menu( array(
       'container' => false,
       'theme_locations' => 'primary'
@@ -32,6 +33,7 @@
     <?php ?>
   </div> <!-- /.container -->
 </header><!--/.header-->
+
 
 <div class="container">
   <div class="party">
