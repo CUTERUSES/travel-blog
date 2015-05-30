@@ -1,1 +1,25 @@
 // This is the typography.scss file
+body {
+	font-family: 'Lato', 'Gill Sans', sans-serif;
+	color: $kilamanjaro;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+
+ul.menu {
+	letter-spacing: 5px;
+}
+
+ul.posts {
+	font-style: italic;
+	font-weight: 300;
+}
+
+a {
+	color: $dullCyan;
+	text-decoration: none;
+	
+}
