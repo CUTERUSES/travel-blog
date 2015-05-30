@@ -38,15 +38,21 @@ img.alignright    { padding-left: 5px; }
                    Default Styling
    ========================================================================== */
 
+// body {background: $quarterSpanishWhite;}
+
+.main {
+  // position: relative;
+}
 
 .container {
   max-width:1000px;
   margin:0 auto;
+  // position: absolute;
 }
 
 .content {
   float:left;
-  width:65%;
+  width:70%;
   margin-right: 5%;
 
 }
@@ -112,8 +118,8 @@ article.post {
                    Sidebar
    ========================================================================== */
 .sidebar {
-  width:25%;
-  float:right;
+  width:20%;
+  float:left;
 }
   .sidebar ul {
     margin:0;
