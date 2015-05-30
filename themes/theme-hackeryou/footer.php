@@ -12,6 +12,7 @@
  s.parentNode.insertBefore(g,s)}(document,"script"));
 </script>
 
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.0/masonry.pkgd.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.min.js"></script>
 
