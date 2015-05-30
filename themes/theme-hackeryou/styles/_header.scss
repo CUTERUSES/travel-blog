@@ -25,23 +25,27 @@ ul.menu {
 
 ul.posts {
 	position: relative;
-	width: 100%;
+	// width: 100%;
    	margin:0;
    	padding:0;
    	display: flex;
-   	// flex-wrap: wrap;
-   	// flex: 1 0 auto;
+   	flex-direction: column;
+   	flex-wrap: wrap;
+   	flex: 1 0 auto;
    	justify-content: space-between;
     li {
-    	text-align: center;
-    	display:inline;
-    	margin-right: 0px;
+    	// background: red;
+		position: relative;
+    	// width: 80px;
+    	line-height: 2;
+    	// text-align: center;
+    	display: block;
+    	margin-left: 20px;
     	a {
-    		// margin-top: 20px;
-			position: relative;
+    		margin-top: 20px;
        		color:#333;
        		color: black;
-       		padding: 20px 50px;
+       		padding: 0;
        		margin-top: 20px;
      	
      	}
@@ -52,21 +56,22 @@ ul.posts::before {
   /* this is the vertical line */
   content: '';
   position: absolute;
-  top: -10px;
-  // left: 18px;
-  height: 5px;
-  width: 100%;
+  // top: -10px;
+  left: -30px;
+  height: 100%;
+  width: 4px;
   border-radius: 10px;
   background: black;
   margin-bottom: 20px;
 }
 
-ul.posts a::before {
+ul.posts li::before {
 	content: '';
 	position: absolute;
 	width: 20px;
 	height: 20px;
-	top: -12px;
+	top: -20px;
+	left: 20px;
 	border: 4px solid black;
 	background: white;
 	border-radius: 50%;

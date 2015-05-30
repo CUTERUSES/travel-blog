@@ -6,11 +6,18 @@
 
     <div class="content" id="homeContainer">
     		<?php get_template_part( 'loop', 'index' );	?>
+	    </div>
     </div> <!--/.content -->
 
-    <?php get_sidebar(); ?>
 
   </div> <!-- /.container -->
+   <div class="sidebar">
+	      <div class="party">
+	        <ul class="posts">
+	        <?php get_template_part( 'loop', 'top' ); ?>
+	        </ul>
+	      
+	      </div>
 </div> <!-- /.main -->
 
 <?php get_footer(); ?>

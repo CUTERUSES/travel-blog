@@ -35,12 +35,12 @@
 </header><!--/.header-->
 
 
-<div class="container">
+<!-- <div class="container">
   <div class="party">
     <ul class="posts">
-    <?php get_template_part( 'loop', 'top' ); ?>
+    <?php //get_template_part( 'loop', 'top' ); ?>
     </ul>
   
   </div>
-</div>
+</div> -->
 
