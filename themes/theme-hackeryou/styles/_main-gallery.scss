@@ -1,1 +1,29 @@
 // This is the main-gallery.scss file
+
+// positioning for titles over images.
+
+#feature-img-id{
+  position: relative;
+  max-width: 100%;
+}
+
+h2.entry-title{
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 15px;
+  font-size: 1.4em;
+  margin: 0;
+  text-align: center;
+  opacity: 0;
+  a {
+   color: $kilamanjaro; 
+  }
+}
+
+h2.entry-title:hover{
+  opacity: 1;
+}
