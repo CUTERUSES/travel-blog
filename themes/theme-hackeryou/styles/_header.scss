@@ -2,6 +2,7 @@
 header {
 	height: 200px;
 	background: #F3F3F3;
+  margin-bottom: -40px;
 	.container {
 		display: flex;
 		padding: 50px 0;
@@ -32,12 +33,13 @@ ul.posts {
    	flex-direction: column;
    	flex-wrap: wrap;
    	flex: 1 0 auto;
-   	justify-content: space-between;
+   	// justify-content: space-between;
     li {
     	// background: red;
-		position: relative;
+		  position: relative;
+      // margin-bottom: 20px;
     	// width: 80px;
-    	line-height: 2;
+    	line-height: 3;
     	// text-align: center;
     	display: block;
     	margin-left: 20px;
@@ -57,22 +59,23 @@ ul.posts::before {
   content: '';
   position: absolute;
   // top: -10px;
-  left: -30px;
+  left: -8px;
   height: 100%;
   width: 4px;
   border-radius: 10px;
-  background: black;
+  background: $kilamanjaro;
   margin-bottom: 20px;
 }
 
-ul.posts li::before {
+ul.posts a::before {
+  // These are the lil circles
 	content: '';
 	position: absolute;
 	width: 20px;
 	height: 20px;
-	top: -20px;
-	left: 20px;
-	border: 4px solid black;
+	top: 13px;
+	left: -40px;
+	border: 4px solid $kilamanjaro;
 	background: white;
 	border-radius: 50%;
 	margin: 0 auto;
