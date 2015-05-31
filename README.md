@@ -1,3 +1,4 @@
 ##Travel Blog 
-	lalalalalalalalala
-##WordPress Theme
+###WordPress Theme
+
+This is a WordPress Theme by Jen Thorn and Ksenija Gogic. We made it to express our love and frustration between the fun of actually traveling and the very unfun websites that help you set up the trip. I am about to celebrate my 1/12th birthday soon and am thinking about traveling to the Westboro Baptist Church so in order to do this I must first use a website to help me get there. The website I am use is this one that I made to help me get there. Travel Abroad with Travis' Travel Blog!! It will help you get to the places you want to go with all the pictures and words to help you decide if it is really the best place to be besides all the other places you could've chosen. In Conclusion I think You Will find That there is a correlation between this site and the happiness you will gain from the site to Travel Abroad on a daily basis from your home town of small town to the big city!
