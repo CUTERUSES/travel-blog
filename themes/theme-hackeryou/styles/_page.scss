@@ -1,1 +1,28 @@
 // This is the page.scss file
+
+.aboutContent {
+	display: flex;
+	align-content: space-between; 
+	margin-top: 50px;
+	img{
+		min-width: 20%;
+		border-right: 1px solid #F3F3F3;
+		padding-right: 30px;
+	}
+	h3 {
+		font-style: italic;
+		font-weight: 300;
+		color: $dullCyan;
+		margin-top: 0;
+	}
+	p{
+		font-size: 1.1em;
+	}
+}
+
+.contentAbout{
+	display: flex;
+	flex-direction: column;
+	margin-left: 20px;
+	padding-left: 20px;
+}
