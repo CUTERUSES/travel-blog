@@ -3,7 +3,7 @@
 
 This is a WordPress Theme by [Jen Thorn]("http://jenthorn.ca") and [Ksenija Gogic]("http://kse.ninja"). We made it cause it's a cool, simple way to show off you pictures and thoughts from your travels.
 
-###V1.0
+###v 1.0
 Version 1.0 has limited custom pages -- stay tuned for version 2.0!
 
 ####Pages
