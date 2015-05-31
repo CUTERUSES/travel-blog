@@ -1,14 +1,15 @@
-<?php get_header();  ?>
+<?php 
+
+/*
+  Template Name: About Page
+*/
+
+get_header();  ?>
 
 <div class="main">
   <div class="container">
-<<<<<<< HEAD
-  <div class="white">
-    <div class="content">
-=======
 
     <div class="aboutContent">
->>>>>>> edb7396ce79ba825a010291d315e9f2774ebc442
       <?php // Start the loop ?>
       <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
 
@@ -18,7 +19,8 @@
           <h3><?php global $current_user;
         get_currentuserinfo();
         echo  $current_user->display_name . "\n"; ?> </h3>
-          <?php the_content(); ?>
+        <img src="<?php echo get_template_directory_uri(); ?>/images/next.png"alt="">
+        <?php the_content(); ?>
         </div>
         
 
@@ -26,13 +28,9 @@
     </div> <!-- /,content -->
     <img src="" alt="">
 
-<<<<<<< HEAD
-    <?php get_sidebar(); ?>
-  </div>
-=======
     <?//php get_sidebar(); ?>
+    
 
->>>>>>> edb7396ce79ba825a010291d315e9f2774ebc442
   </div> <!-- /.container -->
 </div> <!-- /.main -->
 
