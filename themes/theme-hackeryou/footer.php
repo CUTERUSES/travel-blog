@@ -1,6 +1,13 @@
 <footer>
   <div class="container">
-    <p>&copy; HackerYou <?php echo date('Y'); ?></p>
+  	<div class="footer">
+	  	<h5>Safe Travels &#9825;</h5>
+	  	<div class="footerLinks">
+		    <p>&copy; CUTERUSES <?php echo date('Y'); ?></p>
+		    <p><a href="https://github.com/CUTERUSES/travel-blog">Fork us on GitHub</a></p>
+		    <p><a href="http://masonry.desandro.com/">Used for Image Layout</a></p>
+	    </div>
+    </div>
   </div>
 </footer>
 
