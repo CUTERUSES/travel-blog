@@ -9,7 +9,7 @@ get_header('about');  ?>
 <div class="main">
   <div class="container">
 
-    <div class="aboutContent">
+    <div class="whatThe">
       <?php // Start the loop ?>
       <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
 
