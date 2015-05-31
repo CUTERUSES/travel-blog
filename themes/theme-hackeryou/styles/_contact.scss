@@ -1,48 +1,14 @@
-form.wpcf7-form {
-	// background: red;
-	width: 100%;
-	color: $midGray;
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-	flex-wrap: wrap;
-	p:first-child {
-		width: 50%;
-		span {
-			width: 100%;
-			input {
-				width: 100%;
-			}
-		}
-	}
-	p:nth-child(2){
-		width: 50%;
-	}
-	label {
-	}
-	input {
-		// width: 50%;
-		padding: 10px;
-		border: 1px solid $lightGray;
-		box-shadow: 0 0 2px rgba(255,255,255,0);
-		&:focus {
-			outline: none !important;
-			border: 1px solid $dullCyan;
-			box-shadow: 0 0 2px $dullCyan;
-		}
-	}
-	textarea {
-		border: 1px solid $lightGray;
-		box-shadow: 0 0 2px rgba(255,255,255,0);
-		&:focus {
-			outline: none !important;
-			border: 1px solid $dullCyan;
-			box-shadow: 0 0 2px $dullCyan;
-		}
-	}
+// This is the _contact.scss file
+
+//nothing works on this page, you'll have to find all the styles at the bottom of the _page.scss file
+//super bogus
+
+// form.wpcf7-form{
+// 	background: blue;
+// 	display: flex;
+// }
 
 
-}
 // Tried to hide sidebar. I'm not very good w advanced selectors...
 .white .wpcf7 + .sidebar {
 	display: none;
