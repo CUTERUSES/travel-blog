@@ -1,4 +1,10 @@
-<?php get_header();  ?>
+<?php 
+
+/*
+  Template Name: About Page
+*/
+
+get_header();  ?>
 
 <div class="main">
   <div class="container">
@@ -13,7 +19,8 @@
           <h3><?php global $current_user;
         get_currentuserinfo();
         echo  $current_user->display_name . "\n"; ?> </h3>
-          <?php the_content(); ?>
+        <img src="<?php echo get_template_directory_uri(); ?>/images/next.png"alt="">
+        <?php the_content(); ?>
         </div>
         
 
@@ -22,6 +29,7 @@
     <img src="" alt="">
 
     <?//php get_sidebar(); ?>
+    
 
   </div> <!-- /.container -->
 </div> <!-- /.main -->
