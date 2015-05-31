@@ -2,7 +2,7 @@
 
 <div class="main">
   <div class="container">
-
+  <div class="white">
     <div class="content">
       <?php // Start the loop ?>
       <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
@@ -14,7 +14,7 @@
     </div> <!-- /,content -->
 
     <?php get_sidebar(); ?>
-
+  </div>
   </div> <!-- /.container -->
 </div> <!-- /.main -->
 
