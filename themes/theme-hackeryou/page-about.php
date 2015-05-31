@@ -4,7 +4,7 @@
   Template Name: About Page
 */
 
-get_header();  ?>
+get_header('about');  ?>
 
 <div class="main">
   <div class="container">
@@ -19,7 +19,6 @@ get_header();  ?>
           <h3><?php global $current_user;
         get_currentuserinfo();
         echo  $current_user->display_name . "\n"; ?> </h3>
-        <img src="<?php echo get_template_directory_uri(); ?>/images/next.png"alt="">
         <?php the_content(); ?>
         </div>
         
