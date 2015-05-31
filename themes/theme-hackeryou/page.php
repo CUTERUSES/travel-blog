@@ -2,7 +2,7 @@
 
 <div class="main">
   <div class="container">
-
+  <div class="white">
     <div class="aboutContent">
       <?php // Start the loop ?>
       <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
@@ -22,7 +22,7 @@
     <img src="" alt="">
 
     <?//php get_sidebar(); ?>
-
+  </div> <!-- white -->
   </div> <!-- /.container -->
 </div> <!-- /.main -->
 

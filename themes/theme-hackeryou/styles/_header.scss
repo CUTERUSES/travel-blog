@@ -1,23 +1,29 @@
 // This is the header.scss file
+// Header styling.
 header {
-	height: 200px;
-	background: #F3F3F3;
-  margin-bottom: -40px;
+	height: 500px;
+	// background: url('http://subtlepatterns.com/patterns/paper_fibers.png');
+  background: url(https://download.unsplash.com/photo-1429041966141-44d228a42775) no-repeat fixed center;
+  margin-bottom: -60px;
 	.container {
+    overflow: hidden;
 		display: flex;
-		padding: 50px 0;
+		padding: 20px 0;
 		justify-content: space-between;
 		h1 {
 			line-height: 0;
-			// margin: 0;
 		}
 	}
 }
 
+div.nav {
+  overflow: hidden;
+  background: $overlay;
+  // padding: 20px;
+}
 
-
+// Timeline list items
 ul.menu {
-	// background: black;
 	li {
 		display: inline;
 		text-transform: uppercase;
@@ -45,15 +51,19 @@ ul.posts {
     	margin-left: 20px;
     	a {
     		margin-top: 20px;
-       		color:#333;
-       		color: black;
-       		padding: 0;
-       		margin-top: 20px;
-     	
+       	color:#333;
+       	color: black;
+    		padding: 0;
+       	margin-top: 20px;
+        @include transition;
+        &:hover {
+          color: $dullCyan;
+          }
      	}
-   	}
+   }
 }
 
+// Psuedo elements for timeline styling
 ul.posts::before {
   /* this is the vertical line */
   content: '';
@@ -63,7 +73,7 @@ ul.posts::before {
   height: 100%;
   width: 4px;
   border-radius: 10px;
-  background: $kilamanjaro;
+  background: $midGray;
   margin-bottom: 20px;
 }
 
@@ -75,9 +85,24 @@ ul.posts a::before {
 	height: 20px;
 	top: 13px;
 	left: -40px;
-	border: 4px solid $kilamanjaro;
+	border: 4px solid $midGray;
 	background: white;
 	border-radius: 50%;
 	margin: 0 auto;
 	// margin: 100px;
+}
+
+// Social media icon styling
+.socialmedia img {
+  opacity: 0.5;
+  transition: all 2s;
+  &:hover {
+    opacity: 0.8;
+    @include transition;
+  }
+}
+
+// Trying to affect the little nodes... nice to have. Doesn't work.
+ul.posts a:hover + a::before {
+  border: 4px solid $dullCyan;
 }

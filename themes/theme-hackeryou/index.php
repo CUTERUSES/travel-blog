@@ -9,12 +9,8 @@
     			<?php get_template_part( 'loop', 'index' );	?>
     		
     		</div> <!-- content -->
-    		<div class="sidebar">
-    		    <ul class="posts">
-    	    		<?php get_template_part( 'loop', 'top' ); ?>
-    		    </ul>
-    		</div> <!-- sidebar -->
-    	</div>
+    		<?php get_sidebar(); ?>
+    	</div> <!-- white -->
   	</div> <!-- /.container -->
 
 

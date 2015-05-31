@@ -19,7 +19,11 @@ ul.posts {
 }
 
 a {
-	color: $dullCyan;
+	color: $kilamanjaro;
 	text-decoration: none;
+	@include transition;
+	&:hover {
+		color: $dullCyan;
+	}
 	
 }
