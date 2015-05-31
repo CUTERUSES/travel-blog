@@ -16,6 +16,11 @@ header {
 	}
 }
 
+header.aboutHeader {
+  background: url(images/globe.png) no-repeat fixed center bottom;
+  background-size: cover;
+}
+
 div.nav {
   overflow: hidden;
   background: $overlay;
