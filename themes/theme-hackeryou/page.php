@@ -2,13 +2,8 @@
 
 <div class="main">
   <div class="container">
-<<<<<<< HEAD
   <div class="white">
-    <div class="content">
-=======
-
     <div class="aboutContent">
->>>>>>> edb7396ce79ba825a010291d315e9f2774ebc442
       <?php // Start the loop ?>
       <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
 
@@ -26,13 +21,8 @@
     </div> <!-- /,content -->
     <img src="" alt="">
 
-<<<<<<< HEAD
-    <?php get_sidebar(); ?>
-  </div>
-=======
     <?//php get_sidebar(); ?>
-
->>>>>>> edb7396ce79ba825a010291d315e9f2774ebc442
+  </div> <!-- white -->
   </div> <!-- /.container -->
 </div> <!-- /.main -->
 
