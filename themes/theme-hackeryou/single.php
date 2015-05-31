@@ -20,8 +20,8 @@
           </div><!-- .entry-content -->
     
           <div class="entry-utility">
-            <?php hackeryou_posted_in(); ?>
-            <?php edit_post_link( 'Edit', '<span class="edit-link">', '</span>' ); ?>
+            
+            
           </div><!-- .entry-utility -->
         </div><!-- #post-## -->
           <div class="entry-meta">
@@ -33,7 +33,6 @@
           <p class="nav-next"><?php next_post_link('%link', '%title &rarr;'); ?></p>
         </div><!-- #nav-below -->
     
-        <?php comments_template( '', true ); ?>
     
       <?php endwhile; // end of the loop. ?>
     

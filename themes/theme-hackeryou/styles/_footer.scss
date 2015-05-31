@@ -1,1 +1,20 @@
 // This is the footer.scss file
+
+footer {
+	background: white;
+}
+
+.footer {
+	text-align: center;
+	margin-top: 50px;
+	padding-top: 5px;
+	h5{
+		margin-bottom: 0;
+		color: $dullCyan;
+	}
+}
+
+.footerLinks {
+	display: flex;
+	justify-content: space-between;
+}
