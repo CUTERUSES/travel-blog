@@ -13,20 +13,84 @@
 		border-right: 1px solid #F3F3F3;
 		padding-right: 30px;
 	}
+	h2{
+		padding-left: 20px;
+	}
 	h3 {
 		font-style: italic;
 		font-weight: 300;
 		color: $dullCyan;
 		margin-top: 0;
+		padding-left: 20px;
 	}
 	p{
 		font-size: 1.1em;
+		padding-left: 20px;
 	}
 }
 
-.contentAbout{
+// contact form styles
+
+//this selector is selecting the image and the h2 and h3 on the contact page
+.aboutContent {
 	display: flex;
-	flex-direction: column;
+	margin: 30px;
+	h3{
+		color: $dullCyan;
+		font-weight: 300;
+		font-style: italic;
+	}
+	img{
+		// max-width: 100%;
+		margin-right: 20px;
+		border-right: 1px solid #F3F3F3;
+		padding-right: 15px;
+	}
+}
+
+//moving the contact form off the picture
+.contentAbout {
+	width: 100%;
 	margin-left: 20px;
-	padding-left: 20px;
+}
+
+
+//form shit
+form.wpcf7-form{
+	// text-align: center;
+	width: 100%;
+	//input effects all three name email and submit
+	input{
+		width: 70%;
+		padding: 10px;
+		border: 1px solid $lightGray;
+		border-radius: 5px;
+		box-shadow: 0 0 2px rgba(255,255,255,0);			
+		&:focus {
+			outline: none !important;
+			border: 1px solid $dullCyan;
+			box-shadow: 0 0 2px $dullCyan;
+		}
+	}
+	//this is obvs the text area
+	textarea{
+		width: 70%;
+		border: 1px solid $lightGray;
+		border-radius: 5px;
+		&:focus {
+			outline: none !important;
+			border: 1px solid $dullCyan;
+			box-shadow: 0 0 2px $dullCyan;
+		}
+	}
+}
+
+//submit button only
+.wpcf7 input[type="submit"]{
+	background-color: $dullCyan;
+	width: 20%;
+	border: none;
+	border-radius: 5px;
+	text-transform: uppercase;
+	color: white;
 }
